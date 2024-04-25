@@ -10,7 +10,11 @@ public class Datatype {
 		float height = 6f;
 		double heightcm = 164.0976d;
 		boolean inactive = true;
+		String name = "Rohith";
+		int x=1,y=2,z=3;
 		
+		System.out.println(x+y+z);
+		System.out.println(name);
 		System.out.println(age);
 		System.out.println(salary);
 		System.out.println(myid);

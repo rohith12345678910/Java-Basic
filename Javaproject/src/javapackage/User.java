@@ -26,8 +26,6 @@ public class User {
 			System.out.println(number + "*" + i + "="+(number * i));
 			
 		}
-		
-		
 	}
 
 }
